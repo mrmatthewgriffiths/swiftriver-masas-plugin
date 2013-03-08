@@ -3,10 +3,11 @@
 /**
  * Hook class for the MASAS plugin
  *
- * @package   Swiftriver_Masas
- * @author    Matthew Griffiths
- * @category  Plugins
- * @copyright None
+ * PHP version 5
+ * @author     Matthew Griffiths
+ * @package    Swiftriver_Masas
+ * @copyright  None
+ * @licence    MIT
  */
 class Masas_Init {
 	

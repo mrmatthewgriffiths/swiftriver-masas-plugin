@@ -1,3 +1,13 @@
+<?php
+   /*
+    * PHP version 5
+    * @author     Matthew Griffiths
+    * @package    Swiftriver_Masas
+    * @copyright  None
+    * @licence    MIT
+    */
+?>
+
 <script type="text/javascript">
     $.getScript('http://timeago.yarp.com/jquery.timeago.js', function(){
         $('abbr.timeago').timeago();

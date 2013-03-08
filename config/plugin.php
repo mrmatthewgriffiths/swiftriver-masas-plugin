@@ -3,11 +3,12 @@
 /**
  * Config for Masas Plugin
  *
+ * PHP version 5
  * @author     Matthew Griffiths
- * @package    SwiftRiver_Masas
+ * @package    Swiftriver_Masas
  * @copyright  None
+ * @licence    MIT
  */
-
 return array(
 	'masas' => array(
 		'name'			=> 'Masas',

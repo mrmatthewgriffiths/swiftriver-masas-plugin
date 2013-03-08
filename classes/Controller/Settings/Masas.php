@@ -8,6 +8,7 @@
  * @package    Swiftriver_Masas
  * @category   Controllers
  * @copyright  None
+ * @licence    MIT
  */
 class Controller_Settings_Masas extends Controller_Settings_Main {
 	

@@ -6,8 +6,8 @@
  * PHP version 5
  * @author     Matthew Griffiths
  * @package    Swiftriver_Masas
- * @category   Controllers
  * @copyright  None
+ * @licence    MIT
  */
 class Masas {
 

@@ -5,8 +5,10 @@
  *
  * PHP version 5
  * @author     Matthew Griffiths
- * @package    SwiftRiver - Masas
+ * @package    Swiftriver_Masas
+ * @category   Models
  * @copyright  None
+ * @licence    MIT
  */
 class Model_Masas_Settings extends ORM
 {
